@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/census-tract-with-mapbox-compare/static/css/main.12f26b7f.chunk.css",
+    "main.js": "/census-tract-with-mapbox-compare/static/js/main.eec56345.chunk.js",
+    "main.js.map": "/census-tract-with-mapbox-compare/static/js/main.eec56345.chunk.js.map",
+    "runtime-main.js": "/census-tract-with-mapbox-compare/static/js/runtime-main.7d91b445.js",
+    "runtime-main.js.map": "/census-tract-with-mapbox-compare/static/js/runtime-main.7d91b445.js.map",
+    "static/css/2.0bb522a0.chunk.css": "/census-tract-with-mapbox-compare/static/css/2.0bb522a0.chunk.css",
+    "static/js/2.8d8f0756.chunk.js": "/census-tract-with-mapbox-compare/static/js/2.8d8f0756.chunk.js",
+    "static/js/2.8d8f0756.chunk.js.map": "/census-tract-with-mapbox-compare/static/js/2.8d8f0756.chunk.js.map",
+    "index.html": "/census-tract-with-mapbox-compare/index.html",
+    "precache-manifest.e78c20be6be318ec744c41c2685b8dd4.js": "/census-tract-with-mapbox-compare/precache-manifest.e78c20be6be318ec744c41c2685b8dd4.js",
+    "service-worker.js": "/census-tract-with-mapbox-compare/service-worker.js",
+    "static/css/2.0bb522a0.chunk.css.map": "/census-tract-with-mapbox-compare/static/css/2.0bb522a0.chunk.css.map",
+    "static/css/main.12f26b7f.chunk.css.map": "/census-tract-with-mapbox-compare/static/css/main.12f26b7f.chunk.css.map",
+    "static/js/2.8d8f0756.chunk.js.LICENSE.txt": "/census-tract-with-mapbox-compare/static/js/2.8d8f0756.chunk.js.LICENSE.txt",
+    "static/media/Graphicacy_logo.svg": "/census-tract-with-mapbox-compare/static/media/Graphicacy_logo.a21d2b02.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d91b445.js",
+    "static/css/2.0bb522a0.chunk.css",
+    "static/js/2.8d8f0756.chunk.js",
+    "static/css/main.12f26b7f.chunk.css",
+    "static/js/main.eec56345.chunk.js"
+  ]
+}
