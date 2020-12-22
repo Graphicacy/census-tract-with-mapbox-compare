@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <title>Mapbox Census Tract Exploration over Time</title>
+    <meta
+      name="description"
+      content="Use this interactive Mapbox tool to explore median household income at the US Census Tract level with fully performant and low-latency interactivity across time periods."
+    />
+
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="ACS Median Household Income over Time at the Census Tract Level" />
+    <meta
+      name="og:image"
+      content="https://census-tract-for-mapbox-data.s3.amazonaws.com/median-household-income-by-census-tract-compressed.png"
+    />
+    <meta
+      property="og:description"
+      content="Use this interactive Mapbox tool to explore median household income at the US Census Tract level with fully performant and low-latency interactivity across time periods."
+    />
+    <meta property="og:url" content="https://graphicacy.github.io/census-tract-with-mapbox-compare/" />
+
+    <meta name="twitter:site" content="@graphicacy_info" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="ACS Median Household Income over Time at the Census Tract Level" />
+    <meta
+      name="twitter:description"
+      content="Use this interactive Mapbox tool to explore median household income at the US Census Tract level with fully performant and low-latency interactivity across time periods."
+    />
+    <meta
+      name="twitter:image"
+      content="https://census-tract-for-mapbox-data.s3.amazonaws.com/median-household-income-by-census-tract-compressed.png"
+    />
+    <meta
+      name="twitter:image:alt"
+      content="A choropleth map of the Northeast of the United States with a focus on median household income across time periods."
+    />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-RVM8595R1W"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+
+      gtag('config', 'G-RVM8595R1W');
+    </script>
+    <link
+      rel="stylesheet"
+      href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-compare/v0.4.0/mapbox-gl-compare.css"
+      type="text/css"
+    />
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+  </body>
+</html>
